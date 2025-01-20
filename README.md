@@ -13,25 +13,20 @@
 
 ## 💻 Projects
 
-[//]: # (사이드 프로젝트 1. SMF, 2. 트티, 3. 나비, 4. 두손꼭DO전)
-[//]: # (노션으로 틀 구성하고 링크 생성하기 -> 시연영상, 역할, 기간, 사용 기술, 구성인원, 아이콘, 서비스 요약)
+| 기간                |                                            내용                                             | 
+|-------------------|:-----------------------------------------------------------------------------------------:|
+| 2023.08 ~ 2022.11 |  [SMF(볼링 팀 랜덤 생성 및 점수 관리 앱)](https://discovered-currency-515.notion.site/SMF-181ebfd322e58096a866d1b1f77ad28d)   |
+| 2024.01 ~ 2024.01 | [TUTI(대학생 진로 상담 및 기업 매칭 시스템)](https://discovered-currency-515.notion.site/TUTI-181ebfd322e5802ab134c0b36b8cae10)  |
+| 2024.08 ~ 2024.12 |   [나비(교내 공동구매 플랫폼)](https://discovered-currency-515.notion.site/181ebfd322e580e5b78ff2f172fc0fa7)   |
+| 2025.01 ~ 2025.01 | [두손꼭DO전(사내 게이피케이션 동기부여 앱 공모전)](https://discovered-currency-515.notion.site/DO-181ebfd322e58013b14ef04ca6e6e331) |
 
-| 기간                |  내용  | 
-|-------------------|:----:|
-| 작성중 | SMF  |
-| 작성중 | TUTI |
-| 작성중 |  나비  |
-| 작성중 |  두손꼭DO전 |
 
-[//]: # (| 2022.03 ~ 2022.03 | [당신의 발자취&#40;갤러리 앱 서비스&#41;]&#40;https://ljw1.notion.site/0b6ebf5fdd874734b2fc3afe81df6e29&#41; |)
+[//]: # (블로그)
+## 📝 Blog
+- [블로그](https://youksimgyu.github.io/)
 
-[//]: # (| 2023.03 ~ 2023.06 | [아마촌&#40;아마추어 개발자들을 위한 프로젝트 매칭 서비스&#41;]&#40;https://ljw1.notion.site/Amachon-10cc638563f24c2482c2424913622246&#41; |)
-
-[//]: # (| 2023.06 ~ 2023.06 | [알콜프리&#40;GPT 기반 칵테일 추천 & 레시피 제공 서비스&#41;]&#40;https://ljw1.notion.site/21293beb678b4013a457e67e873885ee&#41; |)
-
-[//]: # (| 2023.07 ~ 2023.09 | [셀레브렘&#40;광고주&인플루언서 매칭 서비스&#41;]&#40;https://ljw1.notion.site/Celebrem-2539819165c442789323e4f171dc2bb3&#41; |)
-
-[//]: # (| 2024.05 ~ 2024.07 | [농부의 꿈&#40;공공 데이터 기반 농업 활동 지원 앱 서비스&#41;]&#40;https://ljw1.notion.site/550749b80649431784cd1edd65c237ec&#41; |)
+## 📞 Contact
+- Email: dbrtlarb@gmail.com
 
 ## GitHub Status
 <img src="https://github-readme-stats.vercel.app/api?username=youksimgyu&theme=blue-green"/>
