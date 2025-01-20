@@ -5,15 +5,11 @@
 
 ## 📚 Languages & Skills
 
-<img src="https://img.shields.io/badge/flutter-1B2834?style=for-the-badge&logo=flutter&logoColor=blue">
-<img src="https://img.shields.io/badge/dart-4479A1?style=for-the-badge&logo=dart&logoColor=white">
-<img src="https://img.shields.io/badge/firebase-F47C01?style=for-the-badge&logo=firebase&logoColor=yellow">
-<img src="https://img.shields.io/badge/kotlin-C115E3?style=for-the-badge&logo=kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/flutter-1B2834?style=for-the-badge&logo=flutter&logoColor=blue"> <img src="https://img.shields.io/badge/dart-4479A1?style=for-the-badge&logo=dart&logoColor=white"> <img src="https://img.shields.io/badge/firebase-F47C01?style=for-the-badge&logo=firebase&logoColor=yellow"> <img src="https://img.shields.io/badge/kotlin-C115E3?style=for-the-badge&logo=kotlin&logoColor=white">
 
 ## 🔗 Collaboration
 
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 
 ## 💻 Projects
 
