@@ -19,7 +19,7 @@
 | 2024.01 ~ 2024.01 | [TUTI(대학생 진로 상담 및 기업 매칭 시스템)](https://discovered-currency-515.notion.site/TUTI-181ebfd322e5802ab134c0b36b8cae10)  |
 | 2024.08 ~ 2024.12 |   [나비(교내 공동구매 플랫폼)](https://discovered-currency-515.notion.site/181ebfd322e580e5b78ff2f172fc0fa7)   |
 | 2025.01 ~ 2025.01 | [두손꼭DO전(사내 게이피케이션 동기부여 앱 공모전)](https://discovered-currency-515.notion.site/DO-181ebfd322e58013b14ef04ca6e6e331) |
-| 2025.01 ~ 2025.01 | [두손꼭DO전(사내 게이피케이션 동기부여 앱 공모전)](https://discovered-currency-515.notion.site/Secret-WOD-CrossFit-1afebfd322e58091bab0ed35a5c84b0b) |
+| 2024.12 ~ 2025.03 | [Secret WOD(CrossFit 벤치마크 와드 및 기록 관리 앱)](https://discovered-currency-515.notion.site/Secret-WOD-CrossFit-1afebfd322e58091bab0ed35a5c84b0b) |
 
 
 [//]: # (블로그)
